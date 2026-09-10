@@ -11,10 +11,10 @@ programming, which is still where I come from.
 - 🔭 Currently: **building multi-agent LLM systems (LangGraph) and ML classifiers**
 - 🛠️ Background: **MERN stack, Socket.io, and competitive programming**
 - 💬 Ask me about: **agent architectures, full-stack builds, or NLP/BERT**
-- 📥 Reach me: [Portfolio](https://my-port-folio-alpha-one.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/adarsh-yadav-06074335b/)
+- 📥 Reach me: [Portfolio](https://portfolio-adarsh-yadavs-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/adarsh-yadav-06074335b/)
 
 <p align="left">
-  <a href="https://my-port-folio-alpha-one.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://portfolio-adarsh-yadavs-projects.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/adarsh-yadav-06074335b/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
