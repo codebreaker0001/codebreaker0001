@@ -21,9 +21,8 @@ programming, which is still where I come from.
 **Some things I've built**
 
 - [multi_agent_research_pipeline](https://github.com/codebreaker0001/multi_agent_research_pipeline) — a multi-agent system that turns a research question into a sourced, verified report, coordinated via a shared "blackboard" state
-- [GenzAdda](https://github.com/codebreaker0001/GenzAdda) — a social app (posts, friends, chat) built on MERN + Socket.io
-- [TruckerAndShippers](https://github.com/codebreaker0001/TruckerAndShippers) — a full-stack logistics marketplace: load posting, bidding, tracking, trucker eligibility
-- [iLab](https://github.com/codebreaker0001/iLab) — a Gemini-powered lab report analyzer with visual health-data interpretation
+- [AI-market-analyst](https://github.com/codebreaker0001/AI-market-analyst) — an agent (with an MCP server) that ingests SEC filings and market data, embeds and retrieves them, and answers financial research questions
+- [doc_query](https://github.com/codebreaker0001/doc_query) — a RAG document Q&A system: ingestion, chunking, embeddings, retrieval, Redis caching, and an LLM-backed query API
 
 **Languages**
 
