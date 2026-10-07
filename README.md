@@ -1,46 +1,39 @@
-### Hi, I'm Adarsh Yadav 👋
+# Hi, I'm Adarsh
 
-I'm moving toward building AI agents and applied ML — most recently a
-multi-agent research pipeline on [LangGraph](https://github.com/langchain-ai/langgraph)
-that turns a question into a sourced, verified report, and a BERT-based
-classifier for detecting machine-generated text. Before that I spent a couple
-of years shipping full-stack MERN products — a real-time social app, a
-logistics marketplace, a Gemini-powered lab report analyzer — and competitive
-programming, which is still where I come from.
+**AI Engineer focused on LLMs, Agentic AI, RAG, and applied ML.**
 
-- 🔭 Currently: **building multi-agent LLM systems (LangGraph) and ML classifiers**
-- 🛠️ Background: **MERN stack, Socket.io, and competitive programming**
-- 💬 Ask me about: **agent architectures, full-stack builds, or NLP/BERT**
-- 📥 Reach me: [Portfolio](https://portfolio-adarsh-yadavs-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/adarsh-yadav-06074335b/)
+I build AI-powered applications and intelligent systems using **Python, LLMs, LangGraph, RAG, and modern web technologies**, backed by a strong full-stack engineering background.
 
-<p align="left">
-  <a href="https://portfolio-adarsh-yadavs-projects.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/adarsh-yadav-06074335b/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-</p>
+-  **Currently:** Building AI Agents, RAG systems & Applied ML applications
+-  **Stack:** Python · LangGraph · LLMs · RAG · React · Node.js · MongoDB · Redis
+-  **Interested in:** Agentic AI · NLP · AI Engineering · Scalable ML Systems
+-  **Portfolio:** https://portfolio-adarsh-yadavs-projects.vercel.app/
+-  **LinkedIn:** https://www.linkedin.com/in/adarsh-yadav-06074335b/
 
-**Some things I've built**
+##  Featured Projects
 
-- [multi_agent_research_pipeline](https://github.com/codebreaker0001/multi_agent_research_pipeline) — a multi-agent system that turns a research question into a sourced, verified report, coordinated via a shared "blackboard" state
-- [AI-market-analyst](https://github.com/codebreaker0001/AI-market-analyst) — an agent (with an MCP server) that ingests SEC filings and market data, embeds and retrieves them, and answers financial research questions
-- [doc_query](https://github.com/codebreaker0001/doc_query) — a RAG document Q&A system: ingestion, chunking, embeddings, retrieval, Redis caching, and an LLM-backed query API
+### [DocQuery](https://github.com/codebreaker0001/doc_query)
+**RAG-based Document Intelligence Platform**
 
-**Languages**
+An end-to-end document Q&A system with **document ingestion, chunking, embeddings, semantic retrieval, Redis caching, and LLM-powered responses**.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+🔗 **Live:** [DocQuery Live Demo](YOUR_DOCQUERY_LIVE_LINK)
 
-**Web**
+### Bank Chatbot
+**AI-powered Banking Assistant**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+An intelligent chatbot designed to answer banking-related queries using **LLMs, retrieval, conversational context, and a structured knowledge base**.
 
-**AI / ML**
+🔗 **Live:** [Bank Chatbot Live Demo](YOUR_BANK_CHATBOT_LIVE_LINK)
 
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+##  Other AI Work
+
+- **[Multi-Agent Research Pipeline](https://github.com/codebreaker0001/multi_agent_research_pipeline)** — LangGraph-based multi-agent system that researches questions, verifies sources, and generates structured reports.
+- **[AI Market Analyst](https://github.com/codebreaker0001/AI-market-analyst)** — AI agent with MCP that retrieves SEC filings and market data for financial research.
+
+##  Tech Stack
+
+**AI/ML:** Python · LLMs · LangGraph · RAG · Hugging Face · NLP  
+**Backend:** Node.js · Express · MongoDB · Redis  
+**Frontend:** React · JavaScript · TypeScript  
+**Other:** C++ · Socket.io · Git
