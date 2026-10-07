@@ -1,39 +1,39 @@
-# Hi, I'm Adarsh
+# Hey, I'm Adarsh 
 
-**AI Engineer focused on LLMs, Agentic AI, RAG, and applied ML.**
+**AI Engineer** building agentic systems, LLM applications, and intelligent tooling.
 
-I build AI-powered applications and intelligent systems using **Python, LLMs, LangGraph, RAG, and modern web technologies**, backed by a strong full-stack engineering background.
+I design and ship AI-powered products end-to-end — from multi-agent orchestration and RAG pipelines to the full-stack interfaces that put them in users' hands. My sweet spot is turning research-grade AI into production-ready systems.
 
--  **Currently:** Building AI Agents, RAG systems & Applied ML applications
--  **Stack:** Python · LangGraph · LLMs · RAG · React · Node.js · MongoDB · Redis
--  **Interested in:** Agentic AI · NLP · AI Engineering · Scalable ML Systems
--  **Portfolio:** https://portfolio-adarsh-yadavs-projects.vercel.app/
--  **LinkedIn:** https://www.linkedin.com/in/adarsh-yadav-06074335b/
+---
 
-##  Featured Projects
+### What I'm working on
 
-### [DocQuery](https://github.com/codebreaker0001/doc_query)
-**RAG-based Document Intelligence Platform**
+- Designing **multi-agent architectures** with LangGraph and MCP
+- Building **RAG systems** with retrieval optimization and caching layers
+- Creating **developer tools** that make AI more accessible (check out [db-explorer-mcp](https://pypi.org/project/db-explorer-mcp/0.1.0/) on PyPI)
 
-An end-to-end document Q&A system with **document ingestion, chunking, embeddings, semantic retrieval, Redis caching, and LLM-powered responses**.
+---
 
-🔗 **Live:** [DocQuery Live Demo](YOUR_DOCQUERY_LIVE_LINK)
+### Featured Projects
 
-### Bank Chatbot
-**AI-powered Banking Assistant**
+| Project | What it does |
+|---|---|
+| **[DB Explorer MCP](https://pypi.org/project/db-explorer-mcp/0.1.0/)** | An MCP server that lets AI agents explore and query databases — schemas, tables, and data made accessible to any LLM-powered app. Published on PyPI. |
+| **[Multi-Agent Bank Chatbot](https://multi-agent-bank-chatbot.vercel.app/)** | Agentic banking assistant with specialized sub-agents for query understanding, information retrieval, and contextual response generation. |
+| **[Multi-Agent Research Pipeline](https://github.com/codebreaker0001/multi_agent_research_pipeline)** | LangGraph-powered pipeline that researches questions, cross-verifies sources, and outputs structured reports. |
+| **[DocQuery](https://github.com/codebreaker0001/doc_query)** | RAG document Q&A system with ingestion, embedding, retrieval, Redis caching, and LLM-powered answers. |
 
-An intelligent chatbot designed to answer banking-related queries using **LLMs, retrieval, conversational context, and a structured knowledge base**.
+---
 
-🔗 **Live:** [Bank Chatbot Live Demo](YOUR_BANK_CHATBOT_LIVE_LINK)
+### Tech Stack
 
-##  Other AI Work
+**AI/ML** — Python, LangGraph, MCP, RAG, LLMs, Hugging Face, NLP  
+**Backend** — Node.js, Express, MongoDB, Redis  
+**Frontend** — React, JavaScript, TypeScript  
+**Other** — C++, Socket.io, Git
 
-- **[Multi-Agent Research Pipeline](https://github.com/codebreaker0001/multi_agent_research_pipeline)** — LangGraph-based multi-agent system that researches questions, verifies sources, and generates structured reports.
-- **[AI Market Analyst](https://github.com/codebreaker0001/AI-market-analyst)** — AI agent with MCP that retrieves SEC filings and market data for financial research.
+---
 
-##  Tech Stack
+### Let's connect
 
-**AI/ML:** Python · LLMs · LangGraph · RAG · Hugging Face · NLP  
-**Backend:** Node.js · Express · MongoDB · Redis  
-**Frontend:** React · JavaScript · TypeScript  
-**Other:** C++ · Socket.io · Git
+[Portfolio](https://portfolio-adarsh-yadavs-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/adarsh-yadav-06074335b/)
