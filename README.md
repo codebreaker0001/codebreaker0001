@@ -30,7 +30,7 @@ I design and ship AI-powered products end-to-end — from multi-agent orchestrat
 ### Tech Stack
 
 **AI/ML** — Python, LangGraph, MCP, RAG, LLMs, Hugging Face, NLP  
-**Backend** — Node.js, Express, MongoDB, Redis  
+**Backend** — FastAPI , Node.js, Express, MongoDB, Redis  
 **Frontend** — React, JavaScript, TypeScript  
 **Other** — C++, Socket.io, Git
 
